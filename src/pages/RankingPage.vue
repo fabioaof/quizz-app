@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%; margin-bottom: 20px;">
-      <div style="font-size: 2.5em; font-weight: 700; color: #EFE4D2; text-align: center; user-select: none;">Ranking Final</div>
+      <div style="font-size: 2.5em; font-weight: 700; color: #EFE4D2; text-align: center; user-select: none;">Classificação Final</div>
     </div>
 
     <q-list bordered>
